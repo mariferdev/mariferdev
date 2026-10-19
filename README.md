@@ -189,7 +189,7 @@
       Complete platform for a psychology practice: public site, patient area with Meet/Zoom appointments and payment proof uploads, and a private admin panel with clinical history.
       <br>🔗 <a href="https://psicologiaclaudia.netlify.app/">psicologiaclaudia.netlify.app</a>
       <br><br>
-      <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>Mysql/code> <code>Prisma</code> <code>JWT</code>
+      <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>Mysql</code> <code>Prisma</code> <code>JWT</code>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://img.shields.io/badge/%F0%9F%96%8C%EF%B8%8F_RUMMYCOCO-FF4FA3?style=for-the-badge" alt="Rummycoco" />
